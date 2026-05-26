@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "producteonnect",
+        "uuid": 8273678,
+        "checksum": "7t9u"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
